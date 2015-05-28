@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Oct 05 01:35:50 2012
+Quartus II 32-bit Version : 11.1 Build 259 01/25/2012 SP 2 SJ Full Version
+Revision Name : FreqPhaseSweeping
+Top-level Entity Name : FreqPhaseSweeping
+Family : Cyclone IV E
+Total logic elements : 589
+    Total combinational functions : 482
+    Dedicated logic registers : 253
+Total registers : 253
+Total pins : 106
+Total virtual pins : 0
+Total memory bits : 144
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2
